@@ -17,5 +17,6 @@
   <li>JS Callback: to create/read/update/delete data in database or get cats pics via api by sending message to line bot, I revised and learned a lot more about the Asynchronous JavaScript, like callback, Promise, and Await/Async.
   </li>
 </ol>
-<a src='https://medium.com/@zzz2999582'>My Medium</a>
+
+<p>My Medium: https://medium.com/@zzz2999582</p>
 <h2>To be continued</h2>
