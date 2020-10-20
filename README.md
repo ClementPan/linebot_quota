@@ -8,8 +8,11 @@
 <h3>Here are (some of) the problems I tried to tackle:</h3>
 <ol>
   <li>Line official account manager: how to create a account, basic setting, documentation, and blablabla...</li>
-  <li>Line bot layout: what does a line bot look like?</li>
+  <li>Line bot layout: what does a line bot index.js look like?</li>
+  <li>Message methods: text, sticker, image and more.</li>
+  <li>Ngrok: what's Ngrok? why do I even need Ngrok?</li>
   <li>MySQL: I learned some MySQL syntax and connection pool problem because Heroku won't support MongoDB soon.</li>
-  <li>JS Callback: I revised and learned a lot more about the Asynchronous JavaScript, like callback, Promise, and Await/Async.
+  <li>JS Callback: to create/read/update/delete data in database or get cats pics via api by sending message to line bot, I revised and learned a lot more about the Asynchronous JavaScript, like callback, Promise, and Await/Async.
   </li>
 </ol>
+<a src='https://medium.com/@zzz2999582'>My Medium</a>
